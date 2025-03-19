@@ -3,8 +3,8 @@ Optimism Educator is the official repository hosting our open source projects, e
 # Welcome to Optimism-Educators! 👋
 
 [![GitHub Organization followers](https://img.shields.io/github/followers/Optimism-Educators?label=Followers&style=social)](https://github.com/Optimism-Educators)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNUqyKS4ku8veMMYxEqg-pg?label=Subscribe&style=social)](https://www.youtube.com/channel/CHANNEL_ID)
-[![YouTube Views](https://img.shields.io/youtube/views/UCNUqyKS4ku8veMMYxEqg-pg?label=Views&style=social)](https://www.youtube.com/channel/CHANNEL_ID)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNUqyKS4ku8veMMYxEqg-pg?label=Subscribe&style=social)](UCNUqyKS4ku8veMMYxEqg-pg)
+[![YouTube Views](https://img.shields.io/youtube/views/UCNUqyKS4ku8veMMYxEqg-pg?label=Views&style=social)](https://www.youtube.com/channel/UCNUqyKS4ku8veMMYxEqg-pg)
 
 ---
 
